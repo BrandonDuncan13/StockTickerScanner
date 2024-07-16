@@ -1,0 +1,66 @@
+F:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.exe
+F:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.deps.json
+F:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.runtimeconfig.json
+F:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.dll
+F:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.pdb
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.frmTest.resources
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.GenerateResource.cache
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.AssemblyInfoInputs.cache
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.AssemblyInfo.cs
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.CoreCompileInputs.cache
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.dll
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\refint\StockLoadTest.dll
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.pdb
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.genruntimeconfig.cache
+F:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\ref\StockLoadTest.dll
+D:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.exe
+D:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.deps.json
+D:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.runtimeconfig.json
+D:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.dll
+D:\Development\TradingPartner\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.pdb
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.frmTest.resources
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.GenerateResource.cache
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.AssemblyInfoInputs.cache
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.AssemblyInfo.cs
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.CoreCompileInputs.cache
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.dll
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\refint\StockLoadTest.dll
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.pdb
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.genruntimeconfig.cache
+D:\Development\TradingPartner\StockLoadTest\obj\Debug\net7.0-windows\ref\StockLoadTest.dll
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.exe
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.deps.json
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.runtimeconfig.json
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.dll
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.pdb
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.AssemblyReference.cache
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.frmTest.resources
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.GenerateResource.cache
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.AssemblyInfoInputs.cache
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.AssemblyInfo.cs
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.dll
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\refint\StockLoadTest.dll
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.pdb
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.genruntimeconfig.cache
+C:\Users\Brandon Duncan\OneDrive\Desktop\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\ref\StockLoadTest.dll
+D:\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.exe
+D:\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.deps.json
+D:\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.runtimeconfig.json
+D:\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.dll
+D:\OS\C#\StockFinal\StockLoadTest\bin\Debug\net7.0-windows\StockLoadTest.pdb
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.AssemblyReference.cache
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.frmTest.resources
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.GenerateResource.cache
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.AssemblyInfoInputs.cache
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.AssemblyInfo.cs
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.csproj.CoreCompileInputs.cache
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.dll
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\refint\StockLoadTest.dll
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.pdb
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\StockLoadTest.genruntimeconfig.cache
+D:\OS\C#\StockFinal\StockLoadTest\obj\Debug\net7.0-windows\ref\StockLoadTest.dll
